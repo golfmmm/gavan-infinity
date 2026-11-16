@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "gavaninfinity:gavanium_ore",
+    "gavaninfinity:deepslate_gavanium_ore",
+    "gavaninfinity:gavanium_block"
+  ]
+}

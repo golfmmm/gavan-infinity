@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "gavaninfinity:gavanium_ore"
+  },
+  "result": "gavaninfinity:gavanium_ingot",
+  "experience": 1.0,
+  "cookingtime": 100
+}

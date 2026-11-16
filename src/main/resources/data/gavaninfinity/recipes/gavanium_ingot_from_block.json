@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gavaninfinity:gavanium_block"
+    }
+  ],
+  "result": {
+    "item": "gavaninfinity:gavanium_ingot",
+    "count": 9
+  }
+}

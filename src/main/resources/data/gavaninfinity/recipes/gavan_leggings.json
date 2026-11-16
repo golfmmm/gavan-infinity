@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "G G",
+    "G G"
+  ],
+  "key": {
+    "G": {
+      "item": "gavaninfinity:gavanium_ingot"
+    }
+  },
+  "result": {
+    "item": "gavaninfinity:gavan_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "gavaninfinity:deepslate_gavanium_ore"
+  },
+  "result": "gavaninfinity:gavanium_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

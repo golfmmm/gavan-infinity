@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GRS"
+  ],
+  "key": {
+    "G": {
+      "item": "gavaninfinity:gavanium_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "gavaninfinity:laser_zabeam",
+    "count": 1
+  }
+}
